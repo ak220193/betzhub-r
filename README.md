@@ -14,7 +14,6 @@ List any software or tools that need to be installed before running your project
 
 ```bash
 # Clone the repository
-git clone https://github.com/SoorajVp/Run567-UI.git
 
 # Change into the project directory
 cd project-name
